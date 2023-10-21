@@ -24,11 +24,11 @@ p {
 }
 
 #missao {
-	font-size: 20px
+	font-size: 0px
 }
 
 em strong {
-	color: #FF0000;
+	color: #000000;
 }
 
 .itens {
@@ -36,7 +36,7 @@ em strong {
 }
 
 .beneficios {
-	background: #000000;
+	background: #ffffff;
 	padding: 50px;
 }
 
