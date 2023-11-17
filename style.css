@@ -8,7 +8,7 @@ body
 
 .principal{
 	background: rgba(255, 0, 0, 0.733)
-	padding: 30px;
+	padding 30px;
 }
 
 .titulo-principal {
@@ -28,7 +28,7 @@ p {
 }
 
 em strong {
-	color: rgb(105, 101, 101)5, 0, 0, 0.199);
+	color: rgb(105, 101, 101)5, 0, 0, 0.199;
 }
 
 .itens {
